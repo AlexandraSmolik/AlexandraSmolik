@@ -6,7 +6,7 @@
 
 I turn business problems into products, workflows, and AI agents — then test them in my own companies.
 
-Founder of **[CHILLICODE](https://chillicode.agency/)** and co-founder & CEO of **[Slimmer](https://slimmer.pro/)**. Building businesses since 2012, with a background in web development and a hands-on approach to product and operations.
+Founder of **[CHILLICODE](https://chillicode.agency/)** and co-founder of **[Slimmer](https://slimmer.pro/)**. Building businesses since 2012, with a background in web development and a hands-on approach to product and operations.
 
 <p>
   <a href="https://slimmer.pro/"><img src="https://img.shields.io/badge/Slimmer-6257C8?style=for-the-badge" alt="Slimmer" /></a>
@@ -21,7 +21,7 @@ Founder of **[CHILLICODE](https://chillicode.agency/)** and co-founder & CEO of 
 
 | Project | Focus | My role |
 | :--- | :--- | :--- |
-| **[Slimmer](https://slimmer.pro/)** | A medtech platform connecting patients, doctors, and clinics throughout bariatric care. | Co-founder & CEO |
+| **[Slimmer](https://slimmer.pro/)** | A medtech platform connecting patients, doctors, and clinics throughout bariatric care. | Co-founder |
 | **[CHILLICODE](https://chillicode.agency/)** | Mobile apps and web products, from an initial idea to launch and ongoing development. | Founder |
 | **AI agents & automation** | Practical tools for product work, marketing, content, and business operations. | Design, build & test |
 | **Self-hosted workspace** | Connected tools for tasks, documents, collaboration, and access management. | Build & integrate |
